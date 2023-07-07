@@ -23,10 +23,22 @@ Below are some of the results of our projects. Attached is a report on the proce
 
 
 
-<img src="https://raw.githubusercontent.com/exaids66/imgs/main/images/szgh.png" alt="szgh" style="zoom:25%;" />                                <img src="https://raw.githubusercontent.com/exaids66/imgs/main/images/11.png" alt="11" style="zoom: 50%;" /><img src="https://raw.githubusercontent.com/exaids66/imgs/main/images/12.png" alt="12"  />
+<img src="https://raw.githubusercontent.com/exaids66/imgs/main/images/szgh.png" alt="szgh" style="zoom:25%;" /><img src="https://raw.githubusercontent.com/exaids66/imgs/main/images/16.png" alt="16" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/exaids66/imgs/main/images/15.png" alt="15" style="zoom: 50%;" />
+
+
+
+![image-20230707225637405](https://raw.githubusercontent.com/exaids66/imgs/main/images/image-20230707225637405.png)
 
 ****
 
 ## Selected datasets shown
 
 ![13](https://raw.githubusercontent.com/exaids66/imgs/main/images/13.png)
+
+****
+
+## Key Technology Introduction
+
+<img src="https://raw.githubusercontent.com/exaids66/imgs/main/images/17.png" alt="17" style="zoom: 67%;" />
